@@ -12,6 +12,7 @@ import Achievements from "@/components/Achievements";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
 import BackToTop from "@/components/BackToTop";
+import CustomCursor from "@/components/CustomCursor";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 
 export default function Home() {
@@ -19,6 +20,7 @@ export default function Home() {
 
   return (
     <>
+      <CustomCursor />
       <Splash />
 
       <div id="main-content" className="visible">

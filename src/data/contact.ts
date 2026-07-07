@@ -11,7 +11,7 @@ export const contacts: ContactItem[] = [
     label: "Email",
     value: "angelavilomena21@gmail.com",
     href:
-      "mailto:angelavilomena21@gmail.com?subject=Hello%20Chesia%20-%20Interested%20in%20Collaboration&body=Hi%20Chesia,%0A%0AI%20came%20across%20your%20portfolio%20and%20I'm%20interested%20in%20connecting%20with%20you.%0A%0AWhat%20is%20the%20best%20way%20to%20reach%20you%20for%20a%20quick%20chat%3F%0A%0ABest%20regards",
+      "mailto:angelavilomena21@gmail.com?subject=%5BInsert%20Subject%20Here%5D&body=Dear%20Angela%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0A%5BInsert%20your%20message%20here.%20Be%20clear%20and%20concise%20about%20why%20you%20are%20writing.%5D%0A%0AI%20look%20forward%20to%20your%20reply.%0A%0ABest%20regards%2C%0A%0A%5BYour%20Full%20Name%5D%0A%5BYour%20Position%2FTitle%20%28optional%29%5D%0A%5BYour%20Contact%20Information%5D",
     icon: "email",
   },
   {
@@ -36,7 +36,7 @@ export const contacts: ContactItem[] = [
   },
   {
     label: "GitHub",
-    value: "github.com/ceciuww",
+    value: "ceciuww",
     href: "https://github.com/ceciuww",
     icon: "github",
     external: true,
